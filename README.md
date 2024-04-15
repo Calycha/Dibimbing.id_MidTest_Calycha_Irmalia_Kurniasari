@@ -1,6 +1,6 @@
 Senin, 15 April 2024 [Midtest PT Dibimbing Digital Indonesia]
 
-****Yang terdiri dari 4 Soal (2 Soal Python dan 2 soal SQL)****
+**Yang terdiri dari 4 Soal (2 Soal Python dan 2 soal SQL)**
 
 **SOAL PYTHON 1:**
 tentang menemukan peserta dengan posisi skor ketiga terbaik.
