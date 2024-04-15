@@ -10,5 +10,5 @@ tentang menghitung jarak antara dua koordinat.
 **SOAL SQL 1:** 
 tentang membuat tabel salary dan employee kemudian menemukan karyawan dengan gaji tertinggi posisi ketiga.
 
-**SOAL SQL 2: =**
+**SOAL SQL 2:**
 tentang membuat tabel buyer dan item lalu menemukan barang yang dibeli.
